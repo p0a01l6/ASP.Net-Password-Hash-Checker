@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{ED8C3870-82FF-49FE-8BC8-D67C6EE6A958}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashComparer/HashHelpers/Pbkdf2.cs">
+    <Files>
+      <File FileName="HashComparer/HashComparer.cs" Line="18" Column="10" />
+      <File FileName="HashComparer/HashHelpers/Pbkdf2.cs" Line="10" Column="30" />
+      <File FileName="HashComparer.Tests/Pbdkdf2Tests.cs" Line="23" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP.Net-Password-Hash-Checker" expanded="True" selected="True">
+            <Node name="HashComparer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="HashHelpers" expanded="True" />
+            </Node>
+            <Node name="HashComparer.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MiClub-Authentication" expanded="True">
+            <Node name="HashComparer.Tests" expanded="True">
+              <Node name="HashComparer.Tests" expanded="True">
+                <Node name="Pbdkdf2Tests" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HashComparer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/p0a01l6/Projects/MiClub-Authentication/HashComparer.Tests/Pbdkdf2Tests.cs" relfile="HashComparer.Tests/Pbdkdf2Tests.cs" line="39" column="1" />
+      <Breakpoint file="/Users/p0a01l6/Projects/MiClub-Authentication/HashComparer.Tests/Pbdkdf2Tests.cs" relfile="HashComparer.Tests/Pbdkdf2Tests.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
